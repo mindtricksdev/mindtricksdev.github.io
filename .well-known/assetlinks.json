@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.inffluent.madhouseapp",
+      "sha256_cert_fingerprints": [
+        "C1:51:32:4C:E6:9A:CE:7E:0E:B9:D2:9F:D5:23:F1:C7:54:1C:68:77:29:6E:94:97:7A:78:D3:05:F5:C7:FC:0E"
+      ]
+    }
+  }
+]
